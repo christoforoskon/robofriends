@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'MANHATTAN Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MANHATTAN Regular'), url('MANHATTAN.woff') format('woff');
+}
+
+h1 {
+    font-family: 'MANHATTAN Regular';
+    color: #c3ecff;
+    letter-spacing: 5px;
+}
+
+input {
+    border-radius: 12px;
+}
